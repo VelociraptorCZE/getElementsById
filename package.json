@@ -1,0 +1,11 @@
+{
+  "name": "getelementsbyid",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Simon Raichl",
+      "homepage": "https://github.com/velociraptorcze"
+    }
+  ],
+  "license": "MIT"
+}
